@@ -9,7 +9,7 @@
 ### 🚀 My Projects:
 | Project         | Description                  | Technologies       | Links          |
 |----------------|---------------------------|------------------|---------------------|
-| E-commerce     | Team project: Online store | TS, API, CSS, Webpack, SPA, Sessions | [Live](#) / [Code](#)|
+| E-commerce     | Team project: Online store | TS, CommerceTools API, CSS, Webpack, SPA, Sessions | [Live](#) / [Code](#)|
 | Async Race     | Async car racing game | TS, API, SCSS, Vite, SPA | [Live](#) / [Code](#)|
 | Christmas Shop | Gift shop website | HTML, CSS, JS | [Live](https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/christmas-shop/home/) / [Code](https://github.com/Maxim966/Christmas-shop)|
 | RSS Nonograms  | Classic puzzle game | JS, SCSS, Vite | [Live](https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/nonograms/) / [Code](https://github.com/Maxim966/Nonograms)|
