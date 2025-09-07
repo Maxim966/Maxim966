@@ -7,13 +7,42 @@
 - **Methodologies**: SPA Architecture, Sessions Management
 
 ### 🚀 My Projects:
-| Project         | Description                  | Technologies       | Links          |
-|----------------|---------------------------|------------------|---------------------|
-| E-commerce     | Team project: Online store | TS, CommerceTools API, CSS, Webpack, SPA, Sessions | [Live](#) / [Code](#)|
-| Async Race     | Async car racing game | TS, API, SCSS, Vite, SPA | [Live](#) / [Code](#)|
-| Christmas Shop | Gift shop website | HTML, CSS, JS | [Live](https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/christmas-shop/home/) / [Code](https://github.com/Maxim966/Christmas-shop)|
-| RSS Nonograms  | Classic puzzle game | JS, SCSS, Vite | [Live](https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/nonograms/) / [Code](https://github.com/Maxim966/Nonograms)|
-| Decision making tool | SPA for decision making | TS, API, SCSS, Vite, SPA, Sessions | [Live](https://decision-making-tool12.netlify.app/) / [Code](https://github.com/Maxim966/Decision-making-tool)|
+
+<details>
+  <summary>
+    <a href="#" title="Vanilla JS and TS"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" /></a><strong>JS and TS</strong> 
+  </summary>
+  <ul>
+    <li>
+      <span>Decision-making-tool: </span>
+      <a href="#">repository</a>
+      <span> / </span>
+      <a href="https://decision-making-tool12.netlify.app/">deploy</a>
+    </li>
+    <li>
+      <span>Async Race: </span>
+      <a href="#">
+        repository
+      </a>
+    </li>
+    <li>
+      <span>Christmas Shop: </span>
+      <a href="#">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/christmas-shop/home/">deploy</a>
+    </li>
+    <li>
+      <span>RSS Nonograms: </span>
+      <a href="#">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://rolling-scopes-school.github.io/maxim966-JSFE2024Q4/nonograms/">deploy</a>
+    </li>
+  </ul>
+</details>
 
 ## 📫 Contact Me
 <p align="left">
